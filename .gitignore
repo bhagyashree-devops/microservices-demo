@@ -2,7 +2,7 @@
 logs
 *.log
 npm-debug.log*
-
+thank
 # Dependency directories
 node_modules
 jspm_packages
